@@ -80,8 +80,8 @@ p {
   padding-right: 20%;
   font-size: 30px;
 }
-.last p {
-  font-size: x-large;
+footer p{
+  font-size: larger;
   padding-top: 10px;
   padding-bottom: 0;
   display: flex;
